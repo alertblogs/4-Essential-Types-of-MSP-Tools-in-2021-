@@ -1,40 +1,78 @@
-AlertOps Expert Guidance
+4 Essential Types of MSP Tools (in 2021)
 ========
 
  
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+Managed service providers (MSPs) need the right tools to get the job done quickly and securely. MSP tools dictate control over everything from virtual machine (VM) management and database administration to application and server monitoring. They can also help MSPs oversee IT infrastructure.
 
-Not One Size Fits All
+MSP tools are valuable, but not all tools are created equal. To keep pace with today’s always-on, always-evolving global marketplace, MSPs must continue to evaluate their current tools and explore new tools to adapt to their customers’ needs. If MSPs can identify the right tools, they can become more productive than ever before and consistently meet their customers’ expectations.
+
+Essential MSP Tools for Growth
+====
+There are four categories of managed service providers tools essential for growth:
+
+1. General Tools
+====
+MSPs can leverage the following general tools to support different areas of their everyday operations:
+
+Backup and Disaster Recovery (BDR): Protect against data loss following a catastrophic event
+Security: Protect against malware, ransomware, and other cyber threats; security tools can protect their systems and devices against current and emerging cyber attacks
+Remote Access: Enable end-users to securely access networks, devices, and systems from virtually any location, at any time
+
+General managed service providers tools can be used in combination with one another to automate everyday operations. In these instances, managed service providers tools can help service providers reduce the time necessary to perform daily tasks, save money, and drive efficiency.
+
+2. Professional Services Automation (PSA) Tools
+====
+A PSA tool provides an MSP with full visibility into a customer’s operations. The tool allows an MSP to organize customer data, inventory, billable hours, time-off requests, and other pertinent business information. As such, a PSA can help an MSP get the most value out of the resources at its disposal.
+
+The total economic impact of implementing a PSA can be significant. In a recent survey, researchers found that MSPs that leveraged a PSA were able to:
+
+    Reduce the number of dissatisfied customers by 48%
+    Improve their response time by 28%
+    Improve their attained response time for contracted service-level agreements (SLAs) by 10%
+
+ConnectWise represents one of the top PSA providers for MSPs. In fact, when MSPs use the ConnectWise Manage PSA Tool in conjunction with an industry-leading incident management platform, they can automate the ticket lifecycle.
+
+3. Remote Monitoring and Management (RMM) Tools
+====
+An efficient RMM tool is the cornerstone of a strong MSP. The tool ensures an MSP can monitor its systems and devices in real-time. It also helps an MSP quickly identify incidents and alert appropriate stakeholders.
+
+MSPs can leverage the ConnectWise PSA with RMM tools to continuously monitor customer systems and operations. With constant monitoring, MSPs can identify an incident in its early stages and address the issue before it escalates. They can create an alert if an incident occurs, notify stakeholders, and ensure the incident is immediately resolved.
+
+For MSPs that want to streamline incident management, using an RMM in conjunction with AlertOps is ideal. An RMM can be integrated into AlertOps for incident monitoring and detection. That way, MSPs can use their RMM and AlertOps to:
+
+    Send custom messages to specific groups
+    Escalate incidents
+    Ensure the right stakeholders respond to an incident, every time
+
+An RMM can easily be integrated into AlertOps. Over time, this integration can help an MSP detect and remediate incidents — and avoid long-lasting downtime and outages.
+
+4. Patch Management Automation Tools
+====
+A patch management automation tool helps MSPs keep their systems and devices up to date and also the tool ensures patches are automatically applied across an MSP’s systems and devices as soon as they become available and as a result, the tool ensures an MSP can guard against the latest cyber threats.
+
+Along with automating security updates, a patch automation tool lets MSPs:
+
+    Plan tasks for servers and workstations
+    Detect and escalate driver updates
+    Set up triggers to initiate automated processes
+
+AlertOps drives patch automation, too and the platform offers custom escalation templates and rules to automatically create tickets and alerts for patch technicians and It also automatically escalates critical alerts if the initial message recipient does not respond right away. Plus, AlertOps offers decoupled escalations, so an escalation rule can be applied to any team, regardless of on-call schedules.
+
+Get the Best Results from Your managed service providers Tools
 =====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+The aforementioned managed service providers tools are difference-makers for service providers. To maximize the ROI of these tools, reporting is crucial.
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+Collecting data and generating insights from it enables an MSP to determine how its tools are supporting its everyday operations and with ongoing reporting, an MSP can identify trends and patterns and evaluate its strengths and weaknesses. The service provider can then use these insights to find ways to enhance its operations, improve its services, and meet or surpass its customers’ expectations.
 
-Automate Processes
-====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+In addition to reporting, MSPs should remain on the lookout for new tools they can integrate into their everyday operations and by updating their current tools or investing in new ones, MSPs can leverage the best tools to achieve the best results.
+Why AlertOps Is a Must-Have Tool for MSPs
 
-Clarity
-====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+AlertOps is a must-have for MSPs that want to track incidents and minimize their impact and our platform works seamlessly with ConnectWise and other MSP tools, so service providers can instantly incorporate it into their everyday operations. Also, our platform helps MSPs speed up and improve incident response and ensure they can provide their customers with the services and support they deserve 24/7.
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
-
-Insightful Notifications
-====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
-
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
-
-1 Red Canary 2021 Threat Detection Report
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/msp-tools/
 
 Read more:
 ====
